@@ -21,9 +21,8 @@
 [class*="col-"] {
     border: 1px solid #fff;
     background-color: #006cfa;
-    height: 50px;
-    /*flex: 0 0 auto;*/
 }
+
 
 .col-1 {
     flex-basis: calc((100% / 12) * 1);
