@@ -9,11 +9,13 @@ main h1 {
     text-align: center;
 }
 
-.green {
-    background-color: #01e165;
+[class*="col-"] {
+    min-height: 3rem;
+    border: 1px solid #fff;
+    background-color: #006cfa;
 }
 
-.row div {
-    height: 50px;
+.padding {
+    padding: 1rem;
 }
-
+    
