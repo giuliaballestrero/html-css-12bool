@@ -18,4 +18,9 @@ main h1 {
 .padding {
     padding: 1rem;
 }
+
+#green {
+    background-color: #01e165;
+    border: 1px solid #006cfa;
+}
     
