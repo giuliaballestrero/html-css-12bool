@@ -1,4 +1,13 @@
 
+main section {
+    color: #fff;
+    margin-bottom: 1rem;
+}
 main h1 {
-    padding: 2rem 0;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.green {
+    background-color: #01e165;
 }
