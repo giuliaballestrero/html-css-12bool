@@ -19,6 +19,12 @@ main h1 {
     padding: 1rem;
 }
 
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #green {
     background-color: #01e165;
     border: 1px solid #006cfa;
